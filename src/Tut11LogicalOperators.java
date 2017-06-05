@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Tut11LogicalOperators {
     public static void main(String[] args) {
+
         int boy, girl;
 
         Scanner age = new Scanner(System.in);
